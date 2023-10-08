@@ -2,7 +2,9 @@ Welcome to the tadi web. A small and simple part of the normal web.
 
 ## Slippy mindset
 
-The tadi web is built with a certain mindset. We try to be as 'slippy' as possible. Being slippy means you're not stuck.
+The tadi web is built with a slipp mindset. We try to be as 'slippy' as possible.
+
+*Being slippy means you're not stuck.*
 
 When you're slippy, it's easy to change plan, or rebuild something from scratch. It means you're not locked in to using a certain tool.
 
