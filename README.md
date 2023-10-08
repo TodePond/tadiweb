@@ -2,7 +2,7 @@ Welcome to the tadi web. A small and simple part of the normal web.
 
 ## Slippy mindset
 
-The tadi web is built with a slipp mindset. We try to be as 'slippy' as possible.
+The tadi web is built with a slippy mindset. We try to be as 'slippy' as possible.
 
 *Being slippy means you're not stuck.*
 
