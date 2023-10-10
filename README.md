@@ -13,3 +13,14 @@ If something breaks, you can choose to fix it, or let it die. It's ok, because i
 > Frogs don't live forever! They live, they make some taddies, and then they die. The taddies grow to take their place.
 
 Every time you grow back, you'll be a bit different. You might be stronger. Or you might be better equipped for your changing needs.
+
+# Tadi website
+
+There are many ways to make a tadi website. Here are some ideas for how you could do it.
+
+Click on an idea to try it out!
+
+* [Make a website with text](examples/text).
+* [Make a website with markup](examples/markup).
+
+More coming soon!
