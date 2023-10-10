@@ -14,7 +14,7 @@ If something breaks, you can choose to fix it, or let it die. It's ok, because i
 
 Every time you grow back, you'll be a bit different. You might be stronger. Or you might be better equipped for your changing needs.
 
-# Tadi website
+## Tadi website
 
 There are many ways to make a tadi website. Here are some ideas for how you could do it.
 
