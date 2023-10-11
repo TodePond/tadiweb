@@ -20,7 +20,8 @@ There are many ways to make a tadi website. Here are some ideas for how you coul
 
 Click on an idea to try it out!
 
-* [Make a website with text](text.txt).
+* [Make a website with text](/text.txt).
 * [Make a website with markup](/).
+* [Make a website with document](/document.html)
 
 More coming soon!
