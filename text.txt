@@ -1,3 +1,5 @@
+# Tadi web
+
 Welcome to the tadi web. A small and simple part of the normal web.
 
 ## Slippy mindset
@@ -33,5 +35,8 @@ Copy and paste a link to try it out!
   
 * Make a website with markup.
   tadiweb.com
+
+* Make a website with document.
+  tadiweb.com/document.html
 
 More coming soon!
