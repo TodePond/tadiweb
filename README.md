@@ -16,12 +16,12 @@ Every time you grow back, you'll be a bit different. You might be stronger. Or y
 
 ## Tadi website
 
-There are many ways to make a tadi website. Here are some ideas for how you could do it.
+There are many ways to make a tadi website. Here are some ideas for how you can do it.
 
 Click on an idea to see it in action!
 
 * [Make a website with text.](/text.txt)
 * [Make a website with markup.](/)
-* [Make a website with document.](/document.html)
+* [Make a website with a document.](/document.html)
 
 More coming soon!
