@@ -28,7 +28,10 @@ Copy and paste a link to see an idea in action!
 * Make a website with markup.
   tadiweb.com
 
-* Make a website with a document.
+* Make a website with document.
   tadiweb.com/document.html
+
+* Make a website with style.
+  tadiweb.com/style.html
 
 More coming soon!
