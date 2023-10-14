@@ -40,7 +40,7 @@ The **head** contains info about your document, like the title.
 
 The **body** contains the content of your document.
 
-```
+```html
 <body>
   <h1>My website</h1>
   <p>Welcome to my website.</p>
