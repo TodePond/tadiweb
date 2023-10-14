@@ -20,9 +20,17 @@ Start your file with the document type.
 <!doctype html>
 ```
 
+This makes your document behave itself in old browsers like Chrome and Arc.
+
 ## Head
 
-To do.
+The head contains info about your document, like the title.
+
+```html
+<head>
+  <title>My slippy website</title>
+</head>
+```
 
 ## Body
 
