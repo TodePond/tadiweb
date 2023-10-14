@@ -6,7 +6,7 @@ You don't have to follow these rules to be a part of the tadi web. But they're a
 
 ## File type
 
-Tad document files end in `.html`, which stands for "happy typing many lines".
+Tadi document files end in `.html`, which stands for "happy typing many lines".
 
 ## Structure
 
