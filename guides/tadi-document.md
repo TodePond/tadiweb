@@ -38,21 +38,10 @@ A closing tag for a button is:
 
 ## Structure
 
-Every tadi document file has three sections.
+Every tadi document file has two sections.
 
-* Document type
 * Head
 * Body
-
-## Document type
-
-Start your file with the **document type**.
-
-```html
-<!doctype html>
-```
-
-This makes your document behave itself in old browsers like Chrome and Arc.
 
 ## Head
 
