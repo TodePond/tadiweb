@@ -14,4 +14,4 @@ Write your text inside the file!
 My favourite foods are pasta, pizza, and ice cream.
 ```
 
-Congratulations! You've now learned Hypertadi, and you've made a website!
+Congratulations! You've now learned Hypertadi, and you've made a webs**tad**ite!
